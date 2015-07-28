@@ -32,6 +32,8 @@ A test file in each language implementation will test that:
 + if instance is created
 + if greeting message is expected
 
+It will be a very good idea to manage and submit your code in Git repository.
+
 
 Question 1: Implement a class that satisfies the test
 -----------------------------------------------------
