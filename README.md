@@ -1,5 +1,5 @@
-Hi, future team mate!
-=====================
+Hi, future teammate!
+====================
 
 Today, we would like you to take a brief coding skill-check test.
 Please read following questions, and code a program that satisfies requirements.
