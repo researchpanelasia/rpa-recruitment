@@ -1,1 +1,2 @@
 requires 'Test::More' => '>= 0.98';
+requires 'Time::Piece';
