@@ -59,7 +59,7 @@ After finishing question 1, please prepare your opinions in:
 
 + what is missing in the test, in other words, what should be covered in the test
 + how your class and tests can be improved
-+ what do you do if this class is in your production code
++ what you do if this class is in your production code
 
 Then, improve both your class and tests for improvement.
 
