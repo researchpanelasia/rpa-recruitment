@@ -2,15 +2,12 @@
   "name": "javascript",
   "version": "1.0.0",
   "description": "Skill check for RPA engineer recruitment",
-  "main": "index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
     "test": "mocha"
   },
-  "author": "t-sekiguchi <takafumi_sekiguchi@voyagegroup.com>",
-  "license": "ISC",
   "devDependencies": {
     "mocha": "^2.2.5"
   }
