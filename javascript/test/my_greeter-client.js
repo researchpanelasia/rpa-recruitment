@@ -9,7 +9,6 @@ it('instance', function() {
 });
 
 it('getGreeting', function() {
-  console.log(MyGreeter.Client);
   var greeter = new MyGreeter.Client();
   assert.strictEqual(greeter.getGreeting(), 'Good morning');
 });
