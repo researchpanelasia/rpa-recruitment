@@ -55,11 +55,10 @@ You just need to pick one of favorites.
 Question 2: Improve a class for better testing
 ----------------------------------------------
 
-After finishing question 1, please prepare your opinions in:
+After finishing question 1, please, if the class you have implemented is in production code, prepare your opinions in:
 
 + what is missing in the test, in other words, what should be covered in the test
 + how your class and tests can be improved
-+ what you do if this class is in your production code
 
 Then, improve both your class and tests for improvement.
 
