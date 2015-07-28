@@ -1,0 +1,13 @@
+{
+    "name": "researchpanelasia/greeter-20150728",
+    "description": "Skill check for RPA engineer recruitment",
+    "require": {
+        "phpunit/phpunit": "^4.7"
+    },
+    "authors": [
+        {
+            "name": "yowcowvg",
+            "email": "yoko_ohyama@voyagegroup.com"
+        }
+    ]
+}
