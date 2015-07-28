@@ -4,6 +4,11 @@
     "require": {
         "phpunit/phpunit": "^4.7"
     },
+    "autoload": {
+        "psr-0": {
+            "MyGreeter": "lib/"
+        }
+    },
     "authors": [
         {
             "name": "yowcowvg",
