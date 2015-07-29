@@ -30,7 +30,7 @@ This class is expected to be able to:
 A test file in each language implementation will test that:
 
 + if instance is created
-+ if greeting message is expected
++ if greeting message is as expected
 
 It will be a very good idea to manage and submit your code in Git repository.
 
@@ -60,7 +60,7 @@ After finishing question 1, please, if the class you have implemented is in prod
 + what is missing in the test, in other words, what should be covered in the test
 + how your class and tests can be improved
 
-Then, improve both your class and tests for improvement.
+Then, improve both your class and tests as necessary.
 
 Again, you must satisfy that all tests are passing.
 
