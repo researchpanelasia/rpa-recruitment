@@ -14,7 +14,9 @@ subtest 'Test instance' => sub {
 subtest 'Test get_greeting' => sub {
     my $res = MyGreeter::Client->new;
 
-    ok length $res->get_greeting > 0;
+    subtest 'Returns something with length' => sub {
+        ok length $res->get_greeting > 0;
+    };
 };
 
 done_testing;
