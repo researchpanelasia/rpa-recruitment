@@ -3,12 +3,23 @@
 var assert = require('assert');
 var MyGreeter = require('../src/MyGreeter.js');
 
-it('instance', function() {
-    var greeter = new MyGreeter.Client();
-    assert.ok(greeter instanceof MyGreeter.Client);
-});
+describe('MyGreeter.Client', function () {
 
-it('getGreeting', function() {
-    var greeter = new MyGreeter.Client();
-    assert.strictEqual(greeter.getGreeting(), 'Good morning');
+    describe('Constructor', function () {
+
+        it('should be instantiated', function() {
+            var greeter = new MyGreeter.Client();
+
+            assert.ok(greeter instanceof MyGreeter.Client);
+        });
+    });
+
+    describe('getGreeting', function () {
+
+        it('should return something with length', function() {
+            var greeter = new MyGreeter.Client();
+
+            assert.equal(greeter.getGreeting().length > 0, true);
+        });
+    });
 });
