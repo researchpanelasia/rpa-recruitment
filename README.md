@@ -17,7 +17,7 @@ In all languages, what we want you to do is to implement a class called:
 
 + "MyGreeter.Client" in JavaScript
 + "MyGreeter\Client" in PHP
-+ "MyGreeter::Client" in Perl
++ "MyGreeter::Client" in Perl 5 or 6
 
 This class is expected to be able to:
 
