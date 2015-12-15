@@ -1,17 +1,17 @@
 use v6;
 use lib 'lib';
-use MyGreeter;
+use MyGreeter::Client;
 use Test;
 
 subtest {
-    my MyGreeter $greeter .= new;
+    my MyGreeter::Client $greeter .= new;
 
-    isa-ok $greeter, 'MyGreeter';
+    isa-ok $greeter, 'MyGreeter::Client';
 
 }, 'Test instance';
 
 subtest {
-    my MyGreeter $greeter .= new;
+    my MyGreeter::Client $greeter .= new;
 
     subtest {
         my Str $res = $greeter.get-greeting;
