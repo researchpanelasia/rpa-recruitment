@@ -18,6 +18,7 @@ In all languages, what we want you to do is to implement a class called:
 + "MyGreeter.Client" in JavaScript
 + "MyGreeter\Client" in PHP
 + "MyGreeter::Client" in Perl 5 or 6
++ "MyGreeter.Client" in Python
 
 This class is expected to be able to:
 
@@ -33,6 +34,8 @@ A test file in each language implementation will test that:
 + if greeting message is as expected
 
 It will be a very good idea to manage and submit your code in Git repository.
+
+Note for infrastructrue engineer position, shell scripting is also acceptable.
 
 
 Question 1: Implement a class that satisfies the test
