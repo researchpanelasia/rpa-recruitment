@@ -12,7 +12,15 @@ class Client
 
     public function __construct()
     {
+
+    }
+
+    public function getGreeting($date_time = null)
+    {
         $hour=date('G');
+        if($date_time){
+            $hour = date('G',$date_time);
+        }
         if ($hour>=0 && $hour<12){
             $this->greet = "Good morning";
         } else if ($hour>=12 && $hour<18) {
@@ -20,13 +28,8 @@ class Client
         } else if ($hour>=18 && $hour<=23) {
             $this->greet = "Good evening";
         }else{
-            $this->greet = 'the is some wrong';
+            $this->greet = 'Time format is incorrect ';
         }
-        echo $this->greet;
-    }
-
-    public function getGreeting()
-    {
         return $this->greet;
     }
 
