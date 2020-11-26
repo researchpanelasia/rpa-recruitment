@@ -71,6 +71,6 @@ Again, you must satisfy that all tests are passing.
 After completion
 ----------------
 
-Please submit your code to HR personnel.
+Please submit your code which answers above **2 questions** to HR personnel.
 
 Thank you!
