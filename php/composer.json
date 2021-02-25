@@ -1,8 +1,13 @@
 {
     "name": "researchpanelasia/greeter-20150728",
+    "type": "project",
     "description": "Skill check for RPA engineer recruitment",
+    "minimum-stability": "dev",
     "require": {
-        "phpunit/phpunit": "^4.7"
+        "php": "^7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~8"
     },
     "autoload": {
         "psr-0": {
