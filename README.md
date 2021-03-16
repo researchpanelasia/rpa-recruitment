@@ -24,9 +24,9 @@ This class is expected to be able to:
 
 + be instantiated
 + return one of following greeting message:
-    1. "Good morning" if it is after 12am and just before 12pm
+    1. "Good morning" if it is after 6am and just before 12pm
     2. "Good afternoon" if it is after 12pm and just before 6pm
-    3. "Good evening" if it is after 6pm and just before 12am
+    3. "Good evening" if it is after 6pm and just before 6am
 
 A test file in each language implementation will test that:
 
