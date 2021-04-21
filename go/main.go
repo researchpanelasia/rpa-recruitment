@@ -6,6 +6,6 @@ import (
 )
 
 func main(){
-	c := new(MyGreeter.Client)
+	c := MyGreeter.Instance()
 	fmt.Println(c.GetGreeting())
 }

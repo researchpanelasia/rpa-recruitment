@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="626558e0-7eef-4574-b027-8962fb2de209" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/go/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/php/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/php/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/php/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/php/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/php/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/php/vendor/composer" />
+      <path value="$PROJECT_DIR$/php/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/php/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/php/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/php/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/php/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/php/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/php/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/php/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/php/vendor/phpspec/prophecy" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1rT9I3yJNUmvyZU3TYtaVzXTU4B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/go" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\www\rpa-recruitment\go\MyGreeter" />
+      <recent name="D:\www\rpa-recruitment\go" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\www\rpa-recruitment\go" />
+      <recent name="D:\www\rpa-recruitment\php" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.go test MyGreeter">
+    <configuration name="go build rpa/MyGreeter" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="rpa-recruitment" />
+      <working_directory value="$PROJECT_DIR$/go" />
+      <kind value="PACKAGE" />
+      <package value="rpa/MyGreeter" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Client_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="rpa-recruitment" />
+      <working_directory value="$PROJECT_DIR$/go/MyGreeter" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/go/MyGreeter/Client_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestClient_GetGreeting in rpa" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="rpa-recruitment" />
+      <working_directory value="$PROJECT_DIR$/go" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="rpa" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestClient_GetGreeting$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInstance in rpa" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="rpa-recruitment" />
+      <working_directory value="$PROJECT_DIR$/go" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="rpa" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestInstance$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test MyGreeter" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="rpa-recruitment" />
+      <working_directory value="$PROJECT_DIR$/go/MyGreeter" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/go/MyGreeter" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.go test MyGreeter" />
+        <item itemvalue="Go Build.go build rpa/MyGreeter" />
+        <item itemvalue="Go Test.Client_test.go" />
+        <item itemvalue="Go Test.TestClient_GetGreeting in rpa" />
+        <item itemvalue="Go Test.TestInstance in rpa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="626558e0-7eef-4574-b027-8962fb2de209" name="Default Changelist" comment="" />
+      <created>1618989129862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618989129862</updated>
+      <workItem from="1618989131879" duration="922000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1618991290073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618991290073" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1618991290073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618991290073" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1618991290073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618991290073" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1618991290073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618991290073" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1618990819785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618990819785" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1618990192021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618990192021" />
+  </component>
+</project>
