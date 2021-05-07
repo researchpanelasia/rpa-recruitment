@@ -16,6 +16,7 @@ Summary
 In all languages, what we want you to do is to implement a class called:
 
 + "MyGreeter.Client" in JavaScript
++ "MyGreeter.Client" in TypeScript
 + "MyGreeter\Client" in PHP
 + "MyGreeter::Client" in Perl 5 or 6
 + "MyGreeter.Client" in Python
